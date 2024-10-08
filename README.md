@@ -1,7 +1,7 @@
 # Financial-Tracker
 
 ## Description
-This is a web-based application designed for personal finance tracking. Users can manage their income and expenses, import bank statements, manually enter transactions, categorize them, and visualize their financial health.
+This is a web-based application designed for track the prices of the car you want with alert when is a good moment to buy it.
 
 ## Tech Stack
 - **Frontend:** React (JavaScript)
